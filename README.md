@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan Aakash
 
-I am a 3rd-year Computer Science Engineering student at **GITAM University**, dedicated to mastering the intersection of Machine Learning and Full-Stack Development. I specialize in building data-driven applications that solve real-world business problems.
+I am a 3rd-year Computer Science Engineering student at **GITAM University**, dedicated to mastering the intersection of Machine Learning and Full-Stack Development.
 
 ### Featured Project: Prospect IQ
 **Prospect IQ** is an AI-powered Sales Lead Qualifier System designed to prioritize leads using a hybrid Machine Learning approach.
